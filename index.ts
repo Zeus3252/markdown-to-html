@@ -1,14 +1,3 @@
-/*
-TODO:
-1. Fork this project by clicking "Fork" in the top left or by saving this file
-2. Create a markdown function using regular expressions to convert the strings to formatted html
-3. Send the forked project url (i.e. https://stackblitz.com/edit/typescript-xxxxxx) to kokeefe@multistate.us
-
-To learn more about markdown and regular expressions, refer to:
-https://guides.github.com/features/mastering-markdown/
-https://www.w3schools.com/js/js_regexp.asp
-*/
-
 const strings: string[] = [
   'This is **bold** text.',
   'This is __underlined__ text.',
